@@ -1,0 +1,22 @@
+{
+    "name": "CitiAppBannner",
+    "short_name": "CitiAppBannner",
+    "start_url": "./citi-self-invest",
+    "icons": [{
+        "src": "citi.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }],
+    "orientation": "portrait" ,
+    "background_color": "#fff",
+    "display": "standalone",
+    "theme_color": "#fff",
+    "prefer_related_applications": true,
+    "related_applications": [
+    {
+        "platform": "play",
+        "id": "com.citi.citimobile"
+    }
+    ]
+  }
+  
