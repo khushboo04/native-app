@@ -7,9 +7,7 @@
         "sizes": "512x512",
         "type": "image/png"
       }],
-    "orientation": "portrait" ,
     "background_color": "#fff",
-    "display": "standalone",
     "theme_color": "#fff",
     "prefer_related_applications": true,
     "related_applications": [
