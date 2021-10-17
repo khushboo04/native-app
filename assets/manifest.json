@@ -1,7 +1,7 @@
 {
     "name": "CitiAppBannner",
     "short_name": "CitiAppBannner",
-    "start_url": "./citi-self-invest",
+    "start_url": "./orders",
     "icons": [{
         "src": "citi.png",
         "sizes": "512x512",
